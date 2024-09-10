@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @muhammedshammashere<br>- 👀 I’m interested to learning a new stuffs in comper's world<br>- 🌱 I’m currently learning Fullstack developement<br>- 💞️ I’m looking to collaborate on web projects<br>- 📫 Send a mail : muhdshamx@gmail.com<br>- ⚡ Fun fact: Computer “bug” was inspired by a real insect
+- 👋 Hi, I’m @muhammedshammashere<br>- 👀 I’m interested to learning a new stuffs in computer's world<br>- 🌱 I’m currently learning Fullstack developement<br>- 💞️ I’m looking to collaborate on web projects<br>- 📫 Send a mail : muhdshamx@gmail.com<br>- ⚡ Fun fact: Computer “bug” was inspired by a real insect
 
 
 ## 🌐 Socials:
